@@ -10,8 +10,8 @@ def search():
     else:
         (nxt, inter) = (lookup(tree, ad)[3], lookup(tree, ad)[4])
         if nxt == '' and inter == '':
-            nhr['text'] = 'Address introuvable'
-            ifc1['text'] = 'Address introuvable'
+            nhr['text'] = str(tree[0][3])
+            ifc1['text'] = str(tree[0][4])
         else:
             nhr['text'] = nxt
             ifc1['text'] = inter
