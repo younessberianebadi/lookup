@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="10981347-90c8-43e5-a1a1-95ba196a848d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100addresslookup.py" beforeDir="false" afterPath="$PROJECT_DIR$/100addresslookup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resultat du lookup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Resultat du lookup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphic.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/multi_user_chat_application_in_python-master" />
   </component>
   <component name="RunManager" selected="Python.graphic">
     <configuration name="100addresslookup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -175,10 +172,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#node/0.0.1366.728@0.0.1366.728" timestamp="1590169519321" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590254050263">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596816699197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590254050263" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596816699197" />
     <state width="1345" height="148" key="GridCell.Tab.0.bottom" timestamp="1593533410713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -195,9 +192,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593533410713" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593533203816">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596816661854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593533203816" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596816661854" />
   </component>
 </project>

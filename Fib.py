@@ -6,10 +6,10 @@ def prefix_gene(ip_class):
         pref = randint(8, 32)
         first_oct = bin(randint(1, 126))[2:]
     elif ip_class == 'B':
-        pref = randint(8, 32)
+        pref = randint(16, 32)
         first_oct = bin(randint(128, 191))[2:]
     elif ip_class == 'C':
-        pref = randint(8, 32)
+        pref = randint(24, 32)
         first_oct = bin(randint(192, 223))[2:]
     ipa_address = ''
     if len(first_oct) < 8:
